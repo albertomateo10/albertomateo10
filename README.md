@@ -21,10 +21,10 @@ AI & Software Engineering graduate student passionate about NLP, building intell
 
 My recent academic and professional research was conducted with the **RSTI Group** at the Polytechnic University of Madrid. This work was developed under the **SPEDIA project**, a national cybersecurity initiative funded by **INCIBE** (Spanish National Cybersecurity Institute) focused on insider threat prevention and detection.
 
-* **"A Session-Based Insider Threat Detection Approach Leveraging the CERT and SPEDIA Datasets"**
-    * *Published on SSRN*.
+* [**"A Session-Based Insider Threat Detection Approach Leveraging the CERT and SPEDIA Datasets"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6433998)
+    * **Corresponding Author**, *Published on SSRN*.
     * Proposed a novel machine learning model that transforms raw system logs into structured vectors to significantly improve insider threat detection.
-* **"Design and Generation of a Dataset for Training Insider Threat Prevention and Detection Models: The SPEDIA Dataset"**
+* [**"Design and Generation of a Dataset for Training Insider Threat Prevention and Detection Models: The SPEDIA Dataset"**](https://www.sciencedirect.com/science/article/pii/S0167404825004328)
     * *Presented at the X National Cybersecurity Research Conference (JNIC)* *and extended version published in Computers & Security (Elsevier)*.
     * Co-authored the design and creation of a comprehensive dataset used for training and validating advanced threat detection models.
 
